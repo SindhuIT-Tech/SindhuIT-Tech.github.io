@@ -1,57 +1,48 @@
-# 👋 Hey there! I'm [Your Name]  
-📊 Data Analyst | 📈 Business Analytics Creator | 🚀 E-Commerce Strategist  
+# 👋 Hi, I'm [Your Name] | 📊 Data Analyst | 📈 Business Analytics Enthusiast
+
+Welcome to my data-driven portfolio! 🚀  
+Here you’ll find clean, impactful projects focused on E-Commerce and Service Analytics — using SQL, Excel, Python, Power BI, and Google Sheets.  
+I specialize in creating business-focused, actionable analytics without relying on complex machine learning.  
 
 ---
 
-### 💡 About Me
-I’m a data analyst who turns messy datasets into **clear, profitable business insights**. Focused on solving real-world problems for E-Commerce and Service-Based companies using **SQL, Python, Power BI, Excel, and Google Sheets**.  
+## 📦 📊 Featured Projects  
 
-✨ I specialize in **business-first analytics projects without complex ML fluff** — clean, actionable, and impactful.
-
----
-
-## 🔥 Featured Projects
-
-### 📉 E-Commerce Churn Risk Analysis via Frequency Decay  
-🛒 Segmented customers based on recency & frequency  
-📊 Delivered a **real-time churn risk dashboard in Power BI**  
-🎯 Simulated retention campaigns reducing churn by **18%**  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Churn-Frequency-Decay)
+### 📉 E-Commerce Customer Churn Risk Analysis via Purchase Frequency Decay  
+- 🔍 Segmented customers based on recency & frequency with SQL and Python  
+- 📊 Real-time churn risk dashboard in Power BI  
+- 📈 Simulated re-engagement campaigns reducing churn by **18%**  
+- 📥 [View Project →](https://github.com/yourusername/Ecommerce-Churn-Frequency-Decay)
 
 ---
 
-### 💸 E-Commerce Price Elasticity Analysis  
-📈 Visualized how pricing impacts product demand  
-💰 Identified price points that optimized profit projections by **15%**  
-📊 Power BI dashboard and demand curve reports  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Price-Elasticity-Analysis)
+### 📊 E-Commerce Price Elasticity Analysis  
+- 📈 Analyzed how price changes impact product demand using SQL, Python, and Power BI  
+- 💸 Identified pricing sweet spots and over-discounting risks  
+- 📊 Simulated price adjustments improving profit projections by **15%**  
+- 📥 [View Project →](https://github.com/yourusername/Ecommerce-Price-Elasticity-Analysis)
 
 ---
 
-### 📦 Beginner-Friendly Product Bundle Recommendations (Pivot Table Magic)  
-📊 Detected frequently co-purchased products via **Google Sheets Pivot Tables**  
-🛍️ Designed bundle recommendations increasing average order value by **10%**  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Product-Bundle-Analysis)
+### 📦 E-Commerce Product Bundle Recommendation (Beginner-Friendly | Google Sheets)  
+- 📊 Identified frequently co-purchased product pairs using Pivot Tables  
+- 📈 Recommended product bundles increasing average order value by **10%**  
+- 📥 [View Project →](https://github.com/yourusername/Ecommerce-Product-Bundle-Analysis)
 
 ---
 
-## 🛠️ Tools & Tech I Use
-
-**SQL** | **Python (Pandas, Matplotlib)** | **Power BI** | **Excel** | **Google Sheets Pivot Tables**  
-✨ Always building clean, useful dashboards and reports.
+## 🛠️ Tools & Technologies  
+**SQL** | **Python (Pandas, Matplotlib)** | **Power BI** | **Excel** | **Google Sheets Pivot Tables**
 
 ---
 
-## 📬 Let’s Connect
+## 📧 Let’s Connect  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+💼 [Download Resume](https://your-resume-link.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Resume](https://img.shields.io/badge/Resume-View-green)](https://your-resume-link.com)  
-
----
-
-## 📈 Stats & Highlights  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+**✨ Always eager to collaborate on data projects that drive business outcomes.**
 
 ---
-**✅ Business impact over buzzwords. Data decisions over dashboards.**
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
