@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]  
+# 👋 Hey there! I'm [Sindhu]  
 📊 Data Analyst | 📈 Business Analytics Creator | 🚀 E-Commerce Strategist  
 
 ---
@@ -16,7 +16,7 @@ I’m a data analyst who turns messy datasets into **clear, profitable business 
 🛒 Segmented customers based on recency & frequency  
 📊 Delivered a **real-time churn risk dashboard in Power BI**  
 🎯 Simulated retention campaigns reducing churn by **18%**  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Churn-Frequency-Decay)
+➡️ [**View Full Project**](https://github.com/SindhuIT-Tech/-Churn-Prediction-Via-Frequency-Deca)
 
 ---
 
@@ -24,14 +24,14 @@ I’m a data analyst who turns messy datasets into **clear, profitable business 
 📈 Visualized how pricing impacts product demand  
 💰 Identified price points that optimized profit projections by **15%**  
 📊 Power BI dashboard and demand curve reports  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Price-Elasticity-Analysis)
+➡️ [**View Full Project**](https://github.com/SindhuIT-Tech/Ecommerce-Price-Elasticity-Analysis)
 
 ---
 
 ### 📦 Beginner-Friendly Product Bundle Recommendations (Pivot Table Magic)  
 📊 Detected frequently co-purchased products via **Google Sheets Pivot Tables**  
 🛍️ Designed bundle recommendations increasing average order value by **10%**  
-➡️ [**View Full Project**](https://github.com/yourusername/Ecommerce-Product-Bundle-Analysis)
+➡️ [**View Full Project**](https://github.com/SindhuIT-Tech/-Product-Bundle-Analysis))
 
 ---
 
