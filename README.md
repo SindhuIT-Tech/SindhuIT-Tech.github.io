@@ -6,8 +6,7 @@
 ### 💡 About Me
 I’m a data analyst who turns messy datasets into **clear, profitable business insights**. Focused on solving real-world problems for E-Commerce and Service-Based companies using **SQL, Python, Power BI, Excel, and Google Sheets**.  
 
-✨ I specialize in **business-first analytics projects without complex ML fluff** — clean, actionable, and impactful.
-
+✨
 ---
 
 ## 🔥 Featured Projects
